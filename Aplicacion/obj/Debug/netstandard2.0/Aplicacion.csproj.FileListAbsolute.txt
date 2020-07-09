@@ -1,0 +1,14 @@
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.deps.json
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/bin/Debug/netstandard2.0/Aplicacion.pdb
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/bin/Debug/netstandard2.0/Dominio.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/bin/Debug/netstandard2.0/Persistencia.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/bin/Debug/netstandard2.0/Dominio.pdb
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/bin/Debug/netstandard2.0/Persistencia.pdb
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.csprojAssemblyReference.cache
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.AssemblyInfoInputs.cache
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.AssemblyInfo.cs
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.csproj.CoreCompileInputs.cache
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.csproj.CopyComplete
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Aplicacion/obj/Debug/netstandard2.0/Aplicacion.pdb

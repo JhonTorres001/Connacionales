@@ -1,0 +1,12 @@
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/bin/Debug/netstandard2.0/Persistencia.deps.json
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/bin/Debug/netstandard2.0/Persistencia.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/bin/Debug/netstandard2.0/Persistencia.pdb
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/bin/Debug/netstandard2.0/Dominio.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/bin/Debug/netstandard2.0/Dominio.pdb
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/obj/Debug/netstandard2.0/Persistencia.csprojAssemblyReference.cache
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/obj/Debug/netstandard2.0/Persistencia.AssemblyInfoInputs.cache
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/obj/Debug/netstandard2.0/Persistencia.AssemblyInfo.cs
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/obj/Debug/netstandard2.0/Persistencia.csproj.CoreCompileInputs.cache
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/obj/Debug/netstandard2.0/Persistencia.csproj.CopyComplete
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/obj/Debug/netstandard2.0/Persistencia.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/obj/Debug/netstandard2.0/Persistencia.pdb

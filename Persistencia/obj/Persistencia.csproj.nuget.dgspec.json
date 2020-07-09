@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/Persistencia.csproj": {}
+  },
+  "projects": {
+    "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/Dominio.csproj",
+        "packagesPath": "/Users/jhontorres/.nuget/packages/",
+        "outputPath": "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jhontorres/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/Persistencia.csproj",
+        "packagesPath": "/Users/jhontorres/.nuget/packages/",
+        "outputPath": "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Persistencia/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jhontorres/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/Dominio.csproj": {
+                "projectPath": "/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
