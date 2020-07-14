@@ -56,3 +56,8 @@
 /Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/WebAPI/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/WebAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/WebAPI/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/WebAPI/bin/Debug/netcoreapp3.1/MediatR.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/WebAPI/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/WebAPI/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/WebAPI/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/WebAPI/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

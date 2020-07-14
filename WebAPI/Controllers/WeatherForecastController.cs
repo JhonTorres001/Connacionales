@@ -23,9 +23,9 @@ namespace WebAPI.Controllers
     }
 
     [HttpGet]
-    public IEnumerable<Curso> Get(){
+    public IEnumerable<Municipio> Get(){
            
-            return context.Curso.ToList();
+            return context.Municipio.ToList();
       }
     }
 }

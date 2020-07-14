@@ -1,0 +1,9 @@
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/bin/Debug/netstandard2.0/Dominio.deps.json
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/bin/Debug/netstandard2.0/Dominio.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/bin/Debug/netstandard2.0/Dominio.pdb
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/obj/Debug/netstandard2.0/Dominio.csprojAssemblyReference.cache
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfoInputs.cache
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfo.cs
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/obj/Debug/netstandard2.0/Dominio.csproj.CoreCompileInputs.cache
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/obj/Debug/netstandard2.0/Dominio.dll
+/Users/jhontorres/Desktop/Aprendizaje/ProyectoCore/Dominio/obj/Debug/netstandard2.0/Dominio.pdb

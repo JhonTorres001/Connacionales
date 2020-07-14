@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Aplicacion.Cursos;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -32,6 +34,11 @@ namespace WebAPI
             });
 
             services.AddControllers();
+            services.AddMediatR(typeof(Aplicacion.Cursos.Consulta.Manejador).Assembly);
+            services.AddMediatR(typeof(Aplicacion.Departamentos.Consulta.Manejador).Assembly);
+            services.AddMediatR(typeof(Aplicacion.Estados.Consulta.Manejador).Assembly);
+            services.AddMediatR(typeof(Aplicacion.Generos.Consulta.Manejador).Assembly);
+            services.AddMediatR(typeof(Aplicacion.Municipios.Consulta.Manejador).Assembly);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

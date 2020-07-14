@@ -12,6 +12,5 @@ namespace Dominio
 
         public DateTime FechaPublicacion { get; set; }
 
-         public string  FotoPortada { get; set; }
     }
 }
